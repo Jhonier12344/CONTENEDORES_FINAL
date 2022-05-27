@@ -3,7 +3,7 @@
 Esta es la practica final de telemática donde se trabajará con contenedores
 
 Para comenzar esta practica debes primero clonar el repositorio con el siguiente comando: 
-git clone https://github.com/Jhonier12344/CONTENEDORES_FINAL.git .
+git clone https://github.com/Jhonier12344/CONTENEDORES_FINAL.git 
 
 1. Para iniciar el contenedor se ejecuta el siguiente comando:
   sudo docker build -t proyectofinal:01 .
